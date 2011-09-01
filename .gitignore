@@ -1,0 +1,4 @@
+*.mp4
+*.csv
+/data
+.DS_STORE
